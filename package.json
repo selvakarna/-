@@ -1,0 +1,11 @@
+{
+  "name": "thenkai-mandi-athambai",
+  "version": "1.0.0",
+  "description": "சோழ பாக்கியா தேங்காய் மண்டி - அதாம்பை (CHOLA BAKKIYA THENKAI MANDI ATHAMBAI)",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["thenkai-mandi", "coconut", "athambai", "tamil", "billing", "vettukooli"],
+  "author": "Chola Bakkiya Thenkai Mandi Athambai",
+  "license": "MIT"
+}
